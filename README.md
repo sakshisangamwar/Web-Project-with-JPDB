@@ -1,5 +1,5 @@
 # Web-Project-with-JPDB
-The mini-project uses JasonPowerDB, a database server with developer friendly REST API services to perform basic CRUD operations.
+This mini-project uses JasonPowerDB, a database server with developer friendly REST API services to perform basic CRUD operations.
 
 
 ## Benefits of using JsonPowerDB:
