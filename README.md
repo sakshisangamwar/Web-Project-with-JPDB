@@ -16,9 +16,7 @@ This mini-project uses JasonPowerDB, a database server with developer friendly R
 4. Key- value is used.
 5. Real-time working with HTML templates. 
 
-![Screenshot (4)](https://user-images.githubusercontent.com/80114788/150936663-f3e62e89-491f-4567-a6cb-14ce825d50f7.png)
 
 
-![Screenshot (5)](https://user-images.githubusercontent.com/80114788/150936696-f34150de-9371-4ba7-aabe-7a31e0ebafba.png)
 
 
